@@ -1,0 +1,46 @@
+===== JOB DESCRIPTION 1: Senior Data Scientist =====
+
+Company: TechCorp AI Solutions
+Location: Bangalore, India (Hybrid)
+
+We are looking for a Senior Data Scientist to join our AI/ML team.
+
+Requirements:
+- 3+ years of experience in machine learning and statistical modelling
+- Strong proficiency in Python, TensorFlow or PyTorch, Scikit-learn
+- Experience with NLP, text classification, and deep learning
+- Hands-on with SQL, Spark, and big data pipelines
+- Familiarity with Docker, AWS/GCP, and MLOps practices
+- Experience with feature engineering, A/B testing, and model evaluation
+- Strong communication and stakeholder management skills
+
+Nice to have:
+- Publications or Kaggle competition experience
+- Knowledge of recommendation systems
+- Experience with MLflow or Airflow
+
+Responsibilities:
+- Design and build production-grade ML models
+- Collaborate with product and engineering teams
+- Mentor junior data scientists
+
+
+===== JOB DESCRIPTION 2: Full-Stack Web Developer =====
+
+Company: StartupHub India
+Location: Remote
+
+We need a Full-Stack Developer to build scalable web applications.
+
+Requirements:
+- 2+ years with React, Node.js, and RESTful APIs
+- Proficiency in HTML, CSS, JavaScript, TypeScript
+- Experience with databases: MongoDB or PostgreSQL
+- Familiarity with Docker, CI/CD, and cloud deployment (AWS/Azure)
+- Experience with Git and agile development workflows
+- Knowledge of GraphQL is a plus
+
+Responsibilities:
+- Build and maintain frontend and backend components
+- Optimise application performance
+- Write unit and integration tests

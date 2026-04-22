@@ -1,0 +1,31 @@
+Rohan Mehta
+rohan.mehta45@gmail.com | +91 9876012345
+
+OBJECTIVE
+Passionate Data Scientist with 4 years of experience building machine learning and NLP solutions at scale.
+
+EDUCATION
+M.Tech in Data Science | IIT Bombay | 2019
+
+SKILLS
+Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, NLP,
+Pandas, NumPy, SQL, Spark, Docker, Git, AWS, Tableau, Matplotlib, Seaborn,
+Feature Engineering, Statistical Analysis, A/B Testing
+
+EXPERIENCE
+Senior Data Scientist – Amazon (2021–2024)
+  • Built recommendation engine (collaborative filtering) serving 10M+ users
+  • Reduced model inference latency by 35% via quantisation & batching
+  • Led A/B tests improving CTR by 12% across 6 product lines
+
+Data Scientist – Flipkart (2019–2021)
+  • Developed NLP pipeline for product catalogue deduplication (97% precision)
+  • Created demand forecasting model using XGBoost; reduced overstock by 18%
+
+CERTIFICATIONS
+  • AWS Certified Machine Learning – Specialty (2022)
+  • Deep Learning Specialisation – Coursera (2020)
+
+PROJECTS
+  • Resume Intelligence Platform – TF-IDF + Cosine Similarity + Random Forest
+  • Sentiment Analysis API – BERT fine-tuned on product reviews (F1: 0.91)

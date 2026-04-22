@@ -1,0 +1,31 @@
+Ananya Sharma
+ananya.sharma89@gmail.com | +91 9123456780
+
+OBJECTIVE
+Full-Stack Web Developer with 3 years of hands-on experience in React, Node.js and cloud deployments.
+
+EDUCATION
+B.Tech in Computer Science | VIT Vellore | 2021
+
+SKILLS
+HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express,
+MongoDB, PostgreSQL, REST API, GraphQL, Docker, AWS, Git, Redux,
+Tailwind CSS, Jest, CI/CD, Agile, Scrum
+
+EXPERIENCE
+Frontend Developer – Zomato (2022–2024)
+  • Built customer-facing order tracking UI with React & Redux (1.2M DAU)
+  • Reduced page load time by 42% via code splitting and lazy loading
+  • Implemented real-time order updates using WebSockets
+
+Junior Developer – Wipro (2021–2022)
+  • Developed REST APIs in Node.js / Express for internal HR portal
+  • Wrote unit tests with Jest achieving 85% code coverage
+
+CERTIFICATIONS
+  • Meta Frontend Developer Certificate – Coursera (2023)
+  • AWS Cloud Practitioner (2022)
+
+PROJECTS
+  • E-commerce platform – Next.js + MongoDB + Stripe payments
+  • Portfolio website – React, Framer Motion, deployed on Vercel
