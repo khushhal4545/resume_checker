@@ -15,6 +15,7 @@ An end-to-end **Machine Learning + NLP** resume intelligence platform built with
 | 🔍 Skill Gap Analysis | Shows matched vs missing skills |
 | 💡 Recommendations | Actionable improvement tips |
 | 🏆 Resume Ranking | Ranks multiple candidates against one JD | #resume ranking
+|  📈 Resume Readability Score | Evaluates clarity, sentence length, and structure of the resume |
 
 ---
 
