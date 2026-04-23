@@ -14,7 +14,7 @@ An end-to-end **Machine Learning + NLP** resume intelligence platform built with
 | 🛠️ Skill Extraction | Matches 80+ skills from a curated taxonomy |
 | 🔍 Skill Gap Analysis | Shows matched vs missing skills |
 | 💡 Recommendations | Actionable improvement tips |
-| 🏆 Resume Ranking | Ranks multiple candidates against one JD |
+| 🏆 Resume Ranking | Ranks multiple candidates against one JD | #resume ranking
 
 ---
 
